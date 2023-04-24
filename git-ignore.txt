@@ -1,2 +1,2 @@
 /week8/nodemodules/
-/week*/.env
+/week/.env
