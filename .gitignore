@@ -1,2 +1,3 @@
-/week8/nodemodules/
-/week/.env
+week8/.vscode
+week8/node_modules/
+.env
